@@ -1,0 +1,8 @@
+{
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "installCommand": "",
+  "devCommand": "",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
